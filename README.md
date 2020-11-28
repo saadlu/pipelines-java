@@ -1,4 +1,4 @@
-[![Build Status] (https://dev.azure.com/mashrurmia/mashrurmia/_apis/build/status/saadlu.pipelines-java?branchName=master)](https://dev.azure.com/mashrurmia/mashrurmia/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/mashrurmia/mashrurmia/_apis/build/status/saadlu.pipelines-java?branchName=master)](https://dev.azure.com/mashrurmia/mashrurmia/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
